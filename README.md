@@ -6,4 +6,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-** Web COmponent created in JS and used in Angular **
+**Web COmponent created in JS and used in Angular**
