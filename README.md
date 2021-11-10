@@ -14,4 +14,4 @@ _useful resources_
 
 - [https://developer.mozilla.org/en-US/docs/Web/Web_Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
-- [Console.firebase.google.com/u/0/project/toki-toki-wnbocx/overview](Console.firebase.google.com/u/0/project/toki-toki-wnbocx/overview)
+- [Console.firebase.google.com/u/0/project/toki-toki-wnbocx/overview](https://Console.firebase.google.com/u/0/project/toki-toki-wnbocx/overview)
